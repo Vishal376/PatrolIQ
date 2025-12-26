@@ -92,9 +92,6 @@ Built using **500,000 Chicago crime records**, the platform helps law enforcemen
 
 ---
 
-
----
-
 ## 👤 Author
 **Vishal Singla**
 
